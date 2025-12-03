@@ -1,0 +1,9 @@
+{
+  "name": "@fabian/atoms-button-secondary",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "peerDependencies": {
+    "react": "^18.0.0"
+  }
+}

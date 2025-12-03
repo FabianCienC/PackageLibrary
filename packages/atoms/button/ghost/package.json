@@ -1,0 +1,10 @@
+{
+  "name": "@fabian/atoms-button-ghost",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": false,
+  "type": "module",
+  "peerDependencies": {
+    "react": "^18.0.0"
+  }
+}
