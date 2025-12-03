@@ -1,6 +1,6 @@
 {
-  "name": "@fabian/organisms-header",
-  "version": "1.0.0",
+  "name": "@fabiancienc/organisms-header",
+  "version": "1.0.1",
   "main": "index.js",
   "private": false,
   "type": "module",
@@ -8,6 +8,6 @@
     "react": "^18.0.0"
   },
   "dependencies": {
-    "@fabian/atoms-button-ghost": "^1.0.0"
+    "@fabiancienc/atoms-button-ghost": "^1.0.0"
   }
 }

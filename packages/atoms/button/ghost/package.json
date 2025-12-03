@@ -1,10 +1,14 @@
 {
-  "name": "@fabian/atoms-button-ghost",
+  "name": "@fabiancienc/atoms-button-ghost",
   "version": "1.0.0",
   "main": "index.js",
   "private": false,
   "type": "module",
   "peerDependencies": {
     "react": "^18.0.0"
+  },
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabianCienC/PackageLibrary.git"
   }
 }
