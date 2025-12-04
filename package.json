@@ -2,6 +2,12 @@
   "name": "ui-library",
   "private": true,
   "workspaces": [
-    "packages/*/*"
-  ]
+    "packages/*",
+    "packages/*/*",
+    "packages/*/*/*",
+    "packages/*/*/*/*"
+  ],
+  "devDependencies": {
+    "@changesets/cli": "^2.29.8"
+  }
 }
