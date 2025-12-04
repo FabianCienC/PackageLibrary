@@ -7,7 +7,8 @@
   "access": "public",
   "baseBranch": "test/auto",
   "updateInternalDependencies": "patch",
-  "ignore": []  
+  "ignore": [],
+  "registry": "https://npm.pkg.github.com" 
 }
 
 
