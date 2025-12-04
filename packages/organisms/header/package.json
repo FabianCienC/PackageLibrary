@@ -4,6 +4,9 @@
   "main": "index.js",
   "private": false,
   "type": "module",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "peerDependencies": {
     "react": "^18.0.0"
   },
