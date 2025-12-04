@@ -1,5 +1,11 @@
 # @fabiancienc/atoms-buttons
 
+## 1.0.10
+
+### Patch Changes
+
+- aksjd
+
 ## 1.0.9
 
 ### Patch Changes

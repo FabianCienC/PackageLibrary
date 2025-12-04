@@ -1,9 +1,12 @@
 {
   "name": "@fabiancienc/atoms-buttons",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "main": "index.js",
   "private": false,
   "type": "module",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "dependencies": {
     "@fabiancienc/atoms-button-primary": "^1.0.2",
     "@fabiancienc/atoms-button-secondary": "^1.0.0",
