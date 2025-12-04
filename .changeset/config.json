@@ -5,7 +5,7 @@
   "fixed": [],
   "linked": [],
   "access": "restricted",
-  "baseBranch": "test/auto",
+  "baseBranch": "test/atomic",
   "updateInternalDependencies": "patch",
   "ignore": [],
   "registry": "https://npm.pkg.github.com" 

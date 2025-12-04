@@ -1,0 +1,1 @@
+import ButtonGhost from "@fabiancienc/components-atoms/button/ghost";
